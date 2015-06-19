@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.02" errors="0" skipped="0" tests="1" name="jp.co.brainpad.test.AppTest">
+<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="jp.co.brainpad.test.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib"/>
@@ -20,7 +20,7 @@
     <property name="basedir" value="/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter2683139943733159032.jar"/>
+    <property name="surefire.real.class.path" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter2423740195187696765.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/"/>
     <property name="line.separator" value="
 "/>
@@ -44,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter2683139943733159032.jar /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire5733904287290249748tmp /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire876124504301422839tmp"/>
+    <property name="sun.java.command" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter2423740195187696765.jar /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire5261159596036173797tmp /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire7731142116859120850tmp"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="ja"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
