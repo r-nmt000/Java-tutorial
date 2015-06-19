@@ -20,7 +20,7 @@
     <property name="basedir" value="/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test"/>
     <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter2423740195187696765.jar"/>
+    <property name="surefire.real.class.path" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter6486911492974520285.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/"/>
     <property name="line.separator" value="
 "/>
@@ -28,7 +28,7 @@
     <property name="os.name" value="Mac OS X"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/ryusuke.nomoto/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
-    <property name="surefire.test.class.path" value="/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/test-classes:/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/classes:/Users/ryusuke.nomoto/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/test-classes:/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/classes:/Users/ryusuke.nomoto/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-aop/4.0.0.RELEASE/spring-aop-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-beans/4.0.0.RELEASE/spring-beans-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-core/4.0.0.RELEASE/spring-core-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-expression/4.0.0.RELEASE/spring-expression-4.0.0.RELEASE.jar:"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="51.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -40,11 +40,11 @@
     <property name="java.specification.version" value="1.7"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="user.name" value="ryusuke.nomoto"/>
-    <property name="java.class.path" value="/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/test-classes:/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/classes:/Users/ryusuke.nomoto/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
+    <property name="java.class.path" value="/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/test-classes:/Users/ryusuke.nomoto/repos/java_test/maven_test/my-test/target/classes:/Users/ryusuke.nomoto/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-context/4.0.0.RELEASE/spring-context-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-aop/4.0.0.RELEASE/spring-aop-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-beans/4.0.0.RELEASE/spring-beans-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-core/4.0.0.RELEASE/spring-core-4.0.0.RELEASE.jar:/Users/ryusuke.nomoto/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/ryusuke.nomoto/.m2/repository/org/springframework/spring-expression/4.0.0.RELEASE/spring-expression-4.0.0.RELEASE.jar:"/>
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre"/>
-    <property name="sun.java.command" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter2423740195187696765.jar /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire5261159596036173797tmp /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire7731142116859120850tmp"/>
+    <property name="sun.java.command" value="/var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefirebooter6486911492974520285.jar /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire2524325122038363383tmp /var/folders/46/gfsz9_952bx48lfs0f4443_whsxv7x/T/surefire4350353432349580183tmp"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="ja"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
