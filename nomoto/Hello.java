@@ -6,6 +6,7 @@ class Hello{
         Test test = new Test();
         test.printTest(args[0]);
         Nomo nomo = new Nomo();
+        nomo.printNomo(args[0]);
 
     }
 }
